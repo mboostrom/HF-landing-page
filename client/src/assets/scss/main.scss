@@ -95,6 +95,13 @@
   align-items: center;
   justify-content: center;
   padding-top: 7px;
+  cursor: pointer;
+}
+
+.header-button:hover{
+  background-color: white;
+  color: #ffb400;
+  cursor: pointer;
 }
 
 .header-button p {
@@ -161,6 +168,13 @@
   font-size: 21px !important;
   font-weight: bold !important;
   padding-top: 7px;
+}
+
+.mid-button:hover{
+  background-color: white;
+  color: #ffb400;
+  cursor: pointer;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .mid-button p {
